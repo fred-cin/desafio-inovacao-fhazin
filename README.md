@@ -2,7 +2,7 @@
 Submissão para o desafio de inovação do PS do CITi de 2026.2.
 # DCL: Dashboard de Construtoras Locais
 
-**Inteligência de mercado automatizada (B2B SaaS) desenvolvida para o Desafio de Inovação CITi.**
+**Inteligência de mercado automatizada desenvolvida para o Desafio de Inovação.**
 
 🔗 **[Acesse aqui o Dashboard](https://desafio-inovacao-fhazin.streamlit.app/)**
 
