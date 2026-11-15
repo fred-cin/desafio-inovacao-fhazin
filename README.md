@@ -26,16 +26,21 @@ O projeto evita a interface de "chat com IA" e opera como um pipeline de dados r
 ## Como Rodar o Projeto Localmente
 
 **1. Instale as dependências:**
+
 Bash
+
 pip install -r requirements.txt
 
 **2. Processe os dados brutais via IA:(Nota: Para rodar este script, é necessário inserir uma chave de API do OpenRouter no arquivo process_data.py. Por motivos de segurança, a chave não é enviada ao repositório).**
+
 Bash
+
 python process_data.py
 
 **3. Inicie o Dashboard:**
 
 Bash
+
 python -m streamlit run app.py
 
 
