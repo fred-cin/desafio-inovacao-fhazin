@@ -1,0 +1,38 @@
+[
+    {
+        "sentiment": "Negativo",
+        "category": "Atraso de Obra",
+        "summary": "Atraso e péssimo",
+        "original_text": "O apartamento foi entregue com 6 meses de atraso e o acabamento do piso estava péssimo."
+    },
+    {
+        "sentiment": "Negativo",
+        "category": "Financeiro/Contrato",
+        "summary": "Taxa abusiva, atendimento",
+        "original_text": "Excelente atendimento da corretora, mas a taxa de evolução de obra veio com valor abusivo."
+    },
+    {
+        "sentiment": "Positivo",
+        "category": "Acabamento",
+        "summary": "Satisfação com acabamento",
+        "original_text": "Área de lazer incrível, entregue exatamente como no projeto em 3D. Muito satisfeito."
+    },
+    {
+        "sentiment": "Negativo",
+        "category": "Atendimento",
+        "summary": "Vazamento não corrigido",
+        "original_text": "Estou há 3 meses tentando resolver um vazamento na parede da sala e a assistência técnica não responde."
+    },
+    {
+        "sentiment": "Negativo",
+        "category": "Financeiro/Contrato",
+        "summary": "Impossível devolver contrato",
+        "original_text": "Processo de distrato impossível. A construtora se recusa a devolver o valor previsto em contrato."
+    },
+    {
+        "sentiment": "Positivo",
+        "category": "Acabamento",
+        "summary": "Entrega no prazo",
+        "original_text": "Condomínio entregue no prazo, ótima localização e infraestrutura impecável."
+    }
+]
