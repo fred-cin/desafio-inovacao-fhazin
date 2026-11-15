@@ -4,7 +4,7 @@ from openai import OpenAI
 #Inicializa o cliente OpenAI com a chave de API e a URL base
 client = OpenAI(
     base_url="https://openrouter.ai/api/v1",
-    api_key="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",
+    api_key="colocar-chave-aqui(sk...)",
 )
 
 # carregar os dados brutos
