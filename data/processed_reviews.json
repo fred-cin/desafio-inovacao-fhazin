@@ -1,0 +1,1482 @@
+{
+  "meta": {
+    "generated_at": "2026-11-17T13:50:22",
+    "engines": [
+      "heuristica"
+    ],
+    "demo_data": true,
+    "count": 66
+  },
+  "reviews": [
+    {
+      "id": "r001",
+      "company": "Maré Alta Construtora",
+      "source": "Google Maps",
+      "date": "2026-01-12",
+      "text": "Comprei na planta no Maré Alta Boa Viagem e até agora tudo certo, obra andando no ritmo prometido. Localização excelente, perto de tudo.",
+      "sentiment": "Positivo",
+      "aspects": [
+        {
+          "category": "Acabamento e qualidade",
+          "sentiment": "Positivo"
+        },
+        {
+          "category": "Localização",
+          "sentiment": "Positivo"
+        }
+      ],
+      "urgency": "Baixa",
+      "legal_risk": false,
+      "legal_reason": "",
+      "summary": "Comprei na planta no Maré Alta Boa…",
+      "engine": "heuristica"
+    },
+    {
+      "id": "r002",
+      "company": "Maré Alta Construtora",
+      "source": "Reclame Aqui",
+      "date": "2026-01-28",
+      "text": "Abri 4 chamados na assistência técnica por causa de infiltração no banheiro da suíte e ninguém aparece. Já são 40 dias.",
+      "sentiment": "Negativo",
+      "aspects": [
+        {
+          "category": "Acabamento e qualidade",
+          "sentiment": "Negativo"
+        },
+        {
+          "category": "Assistência técnica",
+          "sentiment": "Negativo"
+        }
+      ],
+      "urgency": "Alta",
+      "legal_risk": false,
+      "legal_reason": "",
+      "summary": "Abri 4 chamados na assistência técnica por…",
+      "engine": "heuristica"
+    },
+    {
+      "id": "r003",
+      "company": "Maré Alta Construtora",
+      "source": "Google Maps",
+      "date": "2026-02-09",
+      "text": "Área de lazer muito bem feita, piscina e academia entregues como no decorado. Gostei bastante.",
+      "sentiment": "Positivo",
+      "aspects": [
+        {
+          "category": "Acabamento e qualidade",
+          "sentiment": "Positivo"
+        },
+        {
+          "category": "Área comum e infraestrutura",
+          "sentiment": "Positivo"
+        }
+      ],
+      "urgency": "Baixa",
+      "legal_risk": false,
+      "legal_reason": "",
+      "summary": "Área de lazer muito bem feita, piscina…",
+      "engine": "heuristica"
+    },
+    {
+      "id": "r004",
+      "company": "Maré Alta Construtora",
+      "source": "Instagram",
+      "date": "2026-02-21",
+      "text": "atendimento do stand de vendas foi nota 10, a corretora tirou todas as minhas dúvidas sobre financiamento",
+      "sentiment": "Positivo",
+      "aspects": [
+        {
+          "category": "Atendimento e vendas",
+          "sentiment": "Positivo"
+        }
+      ],
+      "urgency": "Baixa",
+      "legal_risk": false,
+      "legal_reason": "",
+      "summary": "atendimento do stand de vendas foi nota…",
+      "engine": "heuristica"
+    },
+    {
+      "id": "r005",
+      "company": "Maré Alta Construtora",
+      "source": "Reclame Aqui",
+      "date": "2026-03-05",
+      "text": "Entrega prevista para março e até agora nada. Nenhuma comunicação oficial sobre o novo prazo, só desculpas no telefone.",
+      "sentiment": "Negativo",
+      "aspects": [
+        {
+          "category": "Prazo de entrega",
+          "sentiment": "Negativo"
+        },
+        {
+          "category": "Atendimento e vendas",
+          "sentiment": "Negativo"
+        }
+      ],
+      "urgency": "Média",
+      "legal_risk": false,
+      "legal_reason": "",
+      "summary": "Entrega prevista para março e até agora…",
+      "engine": "heuristica"
+    },
+    {
+      "id": "r006",
+      "company": "Maré Alta Construtora",
+      "source": "Google Maps",
+      "date": "2026-03-18",
+      "text": "Apartamento bom, bem localizado, mas o acabamento das esquadrias deixa a desejar. Janela da sala já veio empenada.",
+      "sentiment": "Neutro",
+      "aspects": [
+        {
+          "category": "Localização",
+          "sentiment": "Positivo"
+        },
+        {
+          "category": "Acabamento e qualidade",
+          "sentiment": "Negativo"
+        }
+      ],
+      "urgency": "Baixa",
+      "legal_risk": false,
+      "legal_reason": "",
+      "summary": "Apartamento bom, bem localizado, mas o acabamento…",
+      "engine": "heuristica"
+    },
+    {
+      "id": "r007",
+      "company": "Maré Alta Construtora",
+      "source": "Formulário pós-entrega",
+      "date": "2026-04-02",
+      "text": "Recebi as chaves dentro do prazo e a vistoria foi tranquila. Equipe atenciosa.",
+      "sentiment": "Positivo",
+      "aspects": [
+        {
+          "category": "Prazo de entrega",
+          "sentiment": "Positivo"
+        },
+        {
+          "category": "Assistência técnica",
+          "sentiment": "Positivo"
+        },
+        {
+          "category": "Atendimento e vendas",
+          "sentiment": "Positivo"
+        }
+      ],
+      "urgency": "Baixa",
+      "legal_risk": false,
+      "legal_reason": "",
+      "summary": "Recebi as chaves dentro do prazo e…",
+      "engine": "heuristica"
+    },
+    {
+      "id": "r008",
+      "company": "Maré Alta Construtora",
+      "source": "Reclame Aqui",
+      "date": "2026-04-19",
+      "text": "Vazamento no teto da cozinha vindo do apartamento de cima. Assistência marcou visita três vezes e não veio em nenhuma. Vou acionar o Procon.",
+      "sentiment": "Negativo",
+      "aspects": [
+        {
+          "category": "Assistência técnica",
+          "sentiment": "Negativo"
+        }
+      ],
+      "urgency": "Alta",
+      "legal_risk": true,
+      "legal_reason": "menciona: procon",
+      "summary": "Vazamento no teto da cozinha vindo do…",
+      "engine": "heuristica"
+    },
+    {
+      "id": "r009",
+      "company": "Maré Alta Construtora",
+      "source": "Google Maps",
+      "date": "2026-05-07",
+      "text": "Condomínio bonito, portaria 24h funcionando bem e garagem ampla.",
+      "sentiment": "Positivo",
+      "aspects": [
+        {
+          "category": "Área comum e infraestrutura",
+          "sentiment": "Positivo"
+        }
+      ],
+      "urgency": "Baixa",
+      "legal_risk": false,
+      "legal_reason": "",
+      "summary": "Condomínio bonito, portaria 24h funcionando bem e…",
+      "engine": "heuristica"
+    },
+    {
+      "id": "r010",
+      "company": "Maré Alta Construtora",
+      "source": "Instagram",
+      "date": "2026-05-22",
+      "text": "obra parada há semanas, alguém da Maré Alta pode explicar o que tá acontecendo?? ninguém responde direct",
+      "sentiment": "Negativo",
+      "aspects": [
+        {
+          "category": "Prazo de entrega",
+          "sentiment": "Negativo"
+        },
+        {
+          "category": "Atendimento e vendas",
+          "sentiment": "Negativo"
+        }
+      ],
+      "urgency": "Média",
+      "legal_risk": false,
+      "legal_reason": "",
+      "summary": "obra parada há semanas, alguém da Maré…",
+      "engine": "heuristica"
+    },
+    {
+      "id": "r011",
+      "company": "Maré Alta Construtora",
+      "source": "Reclame Aqui",
+      "date": "2026-06-10",
+      "text": "Prazo de entrega foi adiado pela segunda vez. Já paguei aluguel extra por 5 meses e a construtora não fala em compensação.",
+      "sentiment": "Negativo",
+      "aspects": [
+        {
+          "category": "Prazo de entrega",
+          "sentiment": "Negativo"
+        },
+        {
+          "category": "Atendimento e vendas",
+          "sentiment": "Negativo"
+        },
+        {
+          "category": "Financeiro e contrato",
+          "sentiment": "Negativo"
+        }
+      ],
+      "urgency": "Média",
+      "legal_risk": false,
+      "legal_reason": "",
+      "summary": "Prazo de entrega foi adiado pela segunda…",
+      "engine": "heuristica"
+    },
+    {
+      "id": "r012",
+      "company": "Maré Alta Construtora",
+      "source": "Google Maps",
+      "date": "2026-06-25",
+      "text": "Localização é o ponto forte, do lado do metrô. Planta bem distribuída.",
+      "sentiment": "Positivo",
+      "aspects": [
+        {
+          "category": "Localização",
+          "sentiment": "Positivo"
+        },
+        {
+          "category": "Acabamento e qualidade",
+          "sentiment": "Positivo"
+        }
+      ],
+      "urgency": "Baixa",
+      "legal_risk": false,
+      "legal_reason": "",
+      "summary": "Localização é o ponto forte, do lado…",
+      "engine": "heuristica"
+    },
+    {
+      "id": "r013",
+      "company": "Maré Alta Construtora",
+      "source": "Reclame Aqui",
+      "date": "2026-07-08",
+      "text": "Atraso de 8 meses e agora querem cobrar a taxa de evolução de obra pelo período do atraso. Já procurei advogado.",
+      "sentiment": "Negativo",
+      "aspects": [
+        {
+          "category": "Prazo de entrega",
+          "sentiment": "Negativo"
+        },
+        {
+          "category": "Financeiro e contrato",
+          "sentiment": "Negativo"
+        }
+      ],
+      "urgency": "Alta",
+      "legal_risk": true,
+      "legal_reason": "menciona: advogad",
+      "summary": "Atraso de 8 meses e agora querem…",
+      "engine": "heuristica"
+    },
+    {
+      "id": "r014",
+      "company": "Maré Alta Construtora",
+      "source": "Google Maps",
+      "date": "2026-07-20",
+      "text": "Fiquei satisfeito com o acabamento, porcelanato de boa qualidade. Só o elevador que vive parando.",
+      "sentiment": "Positivo",
+      "aspects": [
+        {
+          "category": "Acabamento e qualidade",
+          "sentiment": "Positivo"
+        },
+        {
+          "category": "Área comum e infraestrutura",
+          "sentiment": "Positivo"
+        }
+      ],
+      "urgency": "Baixa",
+      "legal_risk": false,
+      "legal_reason": "",
+      "summary": "Fiquei satisfeito com o acabamento, porcelanato de…",
+      "engine": "heuristica"
+    },
+    {
+      "id": "r015",
+      "company": "Maré Alta Construtora",
+      "source": "Formulário pós-entrega",
+      "date": "2026-08-03",
+      "text": "Vistoria de entrega encontrou 23 pendências. Prometeram resolver em 30 dias, vamos ver.",
+      "sentiment": "Negativo",
+      "aspects": [
+        {
+          "category": "Acabamento e qualidade",
+          "sentiment": "Negativo"
+        },
+        {
+          "category": "Assistência técnica",
+          "sentiment": "Negativo"
+        }
+      ],
+      "urgency": "Média",
+      "legal_risk": false,
+      "legal_reason": "",
+      "summary": "Vistoria de entrega encontrou 23 pendências",
+      "engine": "heuristica"
+    },
+    {
+      "id": "r016",
+      "company": "Maré Alta Construtora",
+      "source": "Reclame Aqui",
+      "date": "2026-08-17",
+      "text": "Comprei em 2023 com entrega para dezembro de 2025. Estamos em agosto de 2026 e o prédio não tem nem reboco. Descaso total.",
+      "sentiment": "Negativo",
+      "aspects": [
+        {
+          "category": "Prazo de entrega",
+          "sentiment": "Negativo"
+        },
+        {
+          "category": "Área comum e infraestrutura",
+          "sentiment": "Negativo"
+        }
+      ],
+      "urgency": "Média",
+      "legal_risk": false,
+      "legal_reason": "",
+      "summary": "Comprei em 2023 com entrega para dezembro…",
+      "engine": "heuristica"
+    },
+    {
+      "id": "r017",
+      "company": "Maré Alta Construtora",
+      "source": "Instagram",
+      "date": "2026-09-02",
+      "text": "Parabéns pela área de lazer, minha filha ama o playground 😍",
+      "sentiment": "Positivo",
+      "aspects": [
+        {
+          "category": "Área comum e infraestrutura",
+          "sentiment": "Positivo"
+        }
+      ],
+      "urgency": "Baixa",
+      "legal_risk": false,
+      "legal_reason": "",
+      "summary": "Parabéns pela área de lazer, minha filha…",
+      "engine": "heuristica"
+    },
+    {
+      "id": "r018",
+      "company": "Maré Alta Construtora",
+      "source": "Reclame Aqui",
+      "date": "2026-09-15",
+      "text": "Quero o distrato e a construtora se recusa a devolver o que está no contrato. Vou entrar na justiça.",
+      "sentiment": "Negativo",
+      "aspects": [
+        {
+          "category": "Financeiro e contrato",
+          "sentiment": "Negativo"
+        }
+      ],
+      "urgency": "Alta",
+      "legal_risk": true,
+      "legal_reason": "menciona: justica, distrato",
+      "summary": "Quero o distrato e a construtora se…",
+      "engine": "heuristica"
+    },
+    {
+      "id": "r019",
+      "company": "Maré Alta Construtora",
+      "source": "Google Maps",
+      "date": "2026-10-01",
+      "text": "Mais um atraso anunciado. Atendimento educado mas sem nenhuma informação concreta.",
+      "sentiment": "Negativo",
+      "aspects": [
+        {
+          "category": "Prazo de entrega",
+          "sentiment": "Negativo"
+        },
+        {
+          "category": "Atendimento e vendas",
+          "sentiment": "Negativo"
+        }
+      ],
+      "urgency": "Média",
+      "legal_risk": false,
+      "legal_reason": "",
+      "summary": "Mais um atraso anunciado",
+      "engine": "heuristica"
+    },
+    {
+      "id": "r020",
+      "company": "Maré Alta Construtora",
+      "source": "Google Maps",
+      "date": "2026-10-14",
+      "text": "Rachadura na parede da varanda com menos de um ano de entregue. Abri chamado e responderam rápido, técnico vem semana que vem.",
+      "sentiment": "Neutro",
+      "aspects": [
+        {
+          "category": "Acabamento e qualidade",
+          "sentiment": "Negativo"
+        },
+        {
+          "category": "Assistência técnica",
+          "sentiment": "Positivo"
+        },
+        {
+          "category": "Atendimento e vendas",
+          "sentiment": "Positivo"
+        }
+      ],
+      "urgency": "Alta",
+      "legal_risk": false,
+      "legal_reason": "",
+      "summary": "Rachadura na parede da varanda com menos…",
+      "engine": "heuristica"
+    },
+    {
+      "id": "r021",
+      "company": "Maré Alta Construtora",
+      "source": "Reclame Aqui",
+      "date": "2026-10-29",
+      "text": "Terceiro adiamento da entrega do Maré Alta Imbiribeira. Ninguém assume responsabilidade, só mandam e-mail padrão.",
+      "sentiment": "Negativo",
+      "aspects": [
+        {
+          "category": "Prazo de entrega",
+          "sentiment": "Negativo"
+        },
+        {
+          "category": "Atendimento e vendas",
+          "sentiment": "Negativo"
+        }
+      ],
+      "urgency": "Média",
+      "legal_risk": false,
+      "legal_reason": "",
+      "summary": "Terceiro adiamento da entrega do Maré Alta…",
+      "engine": "heuristica"
+    },
+    {
+      "id": "r022",
+      "company": "Maré Alta Construtora",
+      "source": "Google Maps",
+      "date": "2026-11-10",
+      "text": "Apartamento entregue, bairro tranquilo e perto da praia. Valeu a espera, apesar do atraso.",
+      "sentiment": "Positivo",
+      "aspects": [
+        {
+          "category": "Localização",
+          "sentiment": "Positivo"
+        },
+        {
+          "category": "Prazo de entrega",
+          "sentiment": "Neutro"
+        }
+      ],
+      "urgency": "Baixa",
+      "legal_risk": false,
+      "legal_reason": "",
+      "summary": "Apartamento entregue, bairro tranquilo e perto da…",
+      "engine": "heuristica"
+    },
+    {
+      "id": "r023",
+      "company": "Baobá Engenharia",
+      "source": "Google Maps",
+      "date": "2026-01-08",
+      "text": "Acabamento impecável, dá pra ver o cuidado em cada detalhe. Recomendo a Baobá.",
+      "sentiment": "Positivo",
+      "aspects": [
+        {
+          "category": "Acabamento e qualidade",
+          "sentiment": "Positivo"
+        }
+      ],
+      "urgency": "Baixa",
+      "legal_risk": false,
+      "legal_reason": "",
+      "summary": "Acabamento impecável, dá pra ver o cuidado…",
+      "engine": "heuristica"
+    },
+    {
+      "id": "r024",
+      "company": "Baobá Engenharia",
+      "source": "Reclame Aqui",
+      "date": "2026-01-25",
+      "text": "A taxa de evolução de obra veio muito acima do que foi simulado na venda. Ninguém explicou isso antes de assinar.",
+      "sentiment": "Negativo",
+      "aspects": [
+        {
+          "category": "Financeiro e contrato",
+          "sentiment": "Negativo"
+        },
+        {
+          "category": "Atendimento e vendas",
+          "sentiment": "Negativo"
+        }
+      ],
+      "urgency": "Média",
+      "legal_risk": false,
+      "legal_reason": "",
+      "summary": "A taxa de evolução de obra veio…",
+      "engine": "heuristica"
+    },
+    {
+      "id": "r025",
+      "company": "Baobá Engenharia",
+      "source": "Instagram",
+      "date": "2026-02-11",
+      "text": "entregaram antes do prazo!!! muito feliz com meu apê",
+      "sentiment": "Positivo",
+      "aspects": [
+        {
+          "category": "Prazo de entrega",
+          "sentiment": "Positivo"
+        }
+      ],
+      "urgency": "Baixa",
+      "legal_risk": false,
+      "legal_reason": "",
+      "summary": "entregaram antes do prazo",
+      "engine": "heuristica"
+    },
+    {
+      "id": "r026",
+      "company": "Baobá Engenharia",
+      "source": "Google Maps",
+      "date": "2026-02-27",
+      "text": "Excelente atendimento da corretora, mas o reajuste pelo INCC foi bem salgado.",
+      "sentiment": "Neutro",
+      "aspects": [
+        {
+          "category": "Atendimento e vendas",
+          "sentiment": "Positivo"
+        },
+        {
+          "category": "Financeiro e contrato",
+          "sentiment": "Negativo"
+        }
+      ],
+      "urgency": "Baixa",
+      "legal_risk": false,
+      "legal_reason": "",
+      "summary": "Excelente atendimento da corretora, mas o reajuste…",
+      "engine": "heuristica"
+    },
+    {
+      "id": "r027",
+      "company": "Baobá Engenharia",
+      "source": "Reclame Aqui",
+      "date": "2026-03-14",
+      "text": "Pedi distrato por desemprego e querem reter 50% do valor pago. Isso é abusivo, já registrei reclamação no Procon.",
+      "sentiment": "Negativo",
+      "aspects": [
+        {
+          "category": "Financeiro e contrato",
+          "sentiment": "Negativo"
+        }
+      ],
+      "urgency": "Alta",
+      "legal_risk": true,
+      "legal_reason": "menciona: procon, distrato",
+      "summary": "Pedi distrato por desemprego e querem reter…",
+      "engine": "heuristica"
+    },
+    {
+      "id": "r028",
+      "company": "Baobá Engenharia",
+      "source": "Google Maps",
+      "date": "2026-03-30",
+      "text": "Materiais de primeira e projeto muito bem pensado. Única coisa é que a vaga de garagem é apertada.",
+      "sentiment": "Neutro",
+      "aspects": [
+        {
+          "category": "Acabamento e qualidade",
+          "sentiment": "Positivo"
+        },
+        {
+          "category": "Área comum e infraestrutura",
+          "sentiment": "Negativo"
+        }
+      ],
+      "urgency": "Baixa",
+      "legal_risk": false,
+      "legal_reason": "",
+      "summary": "Materiais de primeira e projeto muito bem…",
+      "engine": "heuristica"
+    },
+    {
+      "id": "r029",
+      "company": "Baobá Engenharia",
+      "source": "Formulário pós-entrega",
+      "date": "2026-04-15",
+      "text": "Recebi o imóvel sem nenhuma pendência na vistoria. Nunca vi isso.",
+      "sentiment": "Negativo",
+      "aspects": [
+        {
+          "category": "Acabamento e qualidade",
+          "sentiment": "Negativo"
+        },
+        {
+          "category": "Assistência técnica",
+          "sentiment": "Negativo"
+        }
+      ],
+      "urgency": "Média",
+      "legal_risk": false,
+      "legal_reason": "",
+      "summary": "Recebi o imóvel sem nenhuma pendência na…",
+      "engine": "heuristica"
+    },
+    {
+      "id": "r030",
+      "company": "Baobá Engenharia",
+      "source": "Google Maps",
+      "date": "2026-04-29",
+      "text": "Corretor sumiu depois da assinatura do contrato. Pra qualquer dúvida é um sufoco conseguir resposta.",
+      "sentiment": "Negativo",
+      "aspects": [
+        {
+          "category": "Atendimento e vendas",
+          "sentiment": "Negativo"
+        },
+        {
+          "category": "Financeiro e contrato",
+          "sentiment": "Negativo"
+        }
+      ],
+      "urgency": "Média",
+      "legal_risk": false,
+      "legal_reason": "",
+      "summary": "Corretor sumiu depois da assinatura do contrato",
+      "engine": "heuristica"
+    },
+    {
+      "id": "r031",
+      "company": "Baobá Engenharia",
+      "source": "Reclame Aqui",
+      "date": "2026-05-03",
+      "text": "Boleto da parcela chegou com valor errado duas vezes. Para corrigir é uma novela, o financeiro não atende telefone.",
+      "sentiment": "Negativo",
+      "aspects": [
+        {
+          "category": "Financeiro e contrato",
+          "sentiment": "Negativo"
+        },
+        {
+          "category": "Atendimento e vendas",
+          "sentiment": "Negativo"
+        }
+      ],
+      "urgency": "Média",
+      "legal_risk": false,
+      "legal_reason": "",
+      "summary": "Boleto da parcela chegou com valor errado…",
+      "engine": "heuristica"
+    },
+    {
+      "id": "r032",
+      "company": "Baobá Engenharia",
+      "source": "Google Maps",
+      "date": "2026-05-19",
+      "text": "Localização meio afastada, mas o condomínio compensa: lazer completo e muito verde.",
+      "sentiment": "Neutro",
+      "aspects": [
+        {
+          "category": "Localização",
+          "sentiment": "Negativo"
+        },
+        {
+          "category": "Área comum e infraestrutura",
+          "sentiment": "Positivo"
+        }
+      ],
+      "urgency": "Baixa",
+      "legal_risk": false,
+      "legal_reason": "",
+      "summary": "Localização meio afastada, mas o condomínio compensa:…",
+      "engine": "heuristica"
+    },
+    {
+      "id": "r033",
+      "company": "Baobá Engenharia",
+      "source": "Instagram",
+      "date": "2026-06-04",
+      "text": "Baobá é outro nível de qualidade. Vizinhos todos satisfeitos aqui no prédio.",
+      "sentiment": "Positivo",
+      "aspects": [
+        {
+          "category": "Acabamento e qualidade",
+          "sentiment": "Positivo"
+        },
+        {
+          "category": "Área comum e infraestrutura",
+          "sentiment": "Positivo"
+        }
+      ],
+      "urgency": "Baixa",
+      "legal_risk": false,
+      "legal_reason": "",
+      "summary": "Baobá é outro nível de qualidade",
+      "engine": "heuristica"
+    },
+    {
+      "id": "r034",
+      "company": "Baobá Engenharia",
+      "source": "Reclame Aqui",
+      "date": "2026-06-21",
+      "text": "Cobraram juros sobre parcelas que eu paguei em dia. Mandei os comprovantes e até agora nenhum retorno.",
+      "sentiment": "Negativo",
+      "aspects": [
+        {
+          "category": "Financeiro e contrato",
+          "sentiment": "Negativo"
+        },
+        {
+          "category": "Atendimento e vendas",
+          "sentiment": "Negativo"
+        }
+      ],
+      "urgency": "Média",
+      "legal_risk": false,
+      "legal_reason": "",
+      "summary": "Cobraram juros sobre parcelas que eu paguei…",
+      "engine": "heuristica"
+    },
+    {
+      "id": "r035",
+      "company": "Baobá Engenharia",
+      "source": "Google Maps",
+      "date": "2026-07-07",
+      "text": "Assistência técnica resolveu um problema na fechadura em 2 dias. Muito eficiente.",
+      "sentiment": "Positivo",
+      "aspects": [
+        {
+          "category": "Acabamento e qualidade",
+          "sentiment": "Positivo"
+        },
+        {
+          "category": "Assistência técnica",
+          "sentiment": "Positivo"
+        }
+      ],
+      "urgency": "Baixa",
+      "legal_risk": false,
+      "legal_reason": "",
+      "summary": "Assistência técnica resolveu um problema na fechadura…",
+      "engine": "heuristica"
+    },
+    {
+      "id": "r036",
+      "company": "Baobá Engenharia",
+      "source": "Reclame Aqui",
+      "date": "2026-07-24",
+      "text": "Contrato tinha uma cláusula de reajuste que o corretor disse que não seria aplicada. Foi aplicada. Me senti enganado.",
+      "sentiment": "Negativo",
+      "aspects": [
+        {
+          "category": "Atendimento e vendas",
+          "sentiment": "Negativo"
+        },
+        {
+          "category": "Financeiro e contrato",
+          "sentiment": "Negativo"
+        }
+      ],
+      "urgency": "Média",
+      "legal_risk": false,
+      "legal_reason": "",
+      "summary": "Contrato tinha uma cláusula de reajuste que…",
+      "engine": "heuristica"
+    },
+    {
+      "id": "r037",
+      "company": "Baobá Engenharia",
+      "source": "Google Maps",
+      "date": "2026-08-09",
+      "text": "Apartamento lindo, acabamento excelente, mas o preço do condomínio ficou bem acima do que foi prometido.",
+      "sentiment": "Neutro",
+      "aspects": [
+        {
+          "category": "Acabamento e qualidade",
+          "sentiment": "Positivo"
+        },
+        {
+          "category": "Financeiro e contrato",
+          "sentiment": "Negativo"
+        },
+        {
+          "category": "Área comum e infraestrutura",
+          "sentiment": "Negativo"
+        }
+      ],
+      "urgency": "Baixa",
+      "legal_risk": false,
+      "legal_reason": "",
+      "summary": "Apartamento lindo, acabamento excelente, mas o preço…",
+      "engine": "heuristica"
+    },
+    {
+      "id": "r038",
+      "company": "Baobá Engenharia",
+      "source": "Formulário pós-entrega",
+      "date": "2026-08-26",
+      "text": "Entrega no prazo, chave na mão no dia marcado. Tudo como combinado.",
+      "sentiment": "Positivo",
+      "aspects": [
+        {
+          "category": "Prazo de entrega",
+          "sentiment": "Positivo"
+        }
+      ],
+      "urgency": "Baixa",
+      "legal_risk": false,
+      "legal_reason": "",
+      "summary": "Entrega no prazo, chave na mão no…",
+      "engine": "heuristica"
+    },
+    {
+      "id": "r039",
+      "company": "Baobá Engenharia",
+      "source": "Reclame Aqui",
+      "date": "2026-09-11",
+      "text": "Estou há 4 meses esperando a devolução do valor do distrato. Meu advogado já notificou a empresa.",
+      "sentiment": "Negativo",
+      "aspects": [
+        {
+          "category": "Financeiro e contrato",
+          "sentiment": "Negativo"
+        }
+      ],
+      "urgency": "Alta",
+      "legal_risk": true,
+      "legal_reason": "menciona: advogad, notific, distrato",
+      "summary": "Estou há 4 meses esperando a devolução…",
+      "engine": "heuristica"
+    },
+    {
+      "id": "r040",
+      "company": "Baobá Engenharia",
+      "source": "Google Maps",
+      "date": "2026-09-28",
+      "text": "Construção sólida, nada de rachadura ou infiltração depois de um ano. Recomendo.",
+      "sentiment": "Positivo",
+      "aspects": [
+        {
+          "category": "Acabamento e qualidade",
+          "sentiment": "Positivo"
+        }
+      ],
+      "urgency": "Baixa",
+      "legal_risk": false,
+      "legal_reason": "",
+      "summary": "Construção sólida, nada de rachadura ou infiltração…",
+      "engine": "heuristica"
+    },
+    {
+      "id": "r041",
+      "company": "Baobá Engenharia",
+      "source": "Instagram",
+      "date": "2026-10-12",
+      "text": "o financeiro de vcs precisa melhorar urgente, 3 semanas pra mandar uma segunda via de boleto",
+      "sentiment": "Negativo",
+      "aspects": [
+        {
+          "category": "Financeiro e contrato",
+          "sentiment": "Negativo"
+        }
+      ],
+      "urgency": "Média",
+      "legal_risk": false,
+      "legal_reason": "",
+      "summary": "o financeiro de vcs precisa melhorar urgente,…",
+      "engine": "heuristica"
+    },
+    {
+      "id": "r042",
+      "company": "Baobá Engenharia",
+      "source": "Google Maps",
+      "date": "2026-10-27",
+      "text": "Bom empreendimento. Nada de excepcional, nada de ruim também.",
+      "sentiment": "Positivo",
+      "aspects": [
+        {
+          "category": "Outro",
+          "sentiment": "Positivo"
+        }
+      ],
+      "urgency": "Baixa",
+      "legal_risk": false,
+      "legal_reason": "",
+      "summary": "Bom empreendimento",
+      "engine": "heuristica"
+    },
+    {
+      "id": "r043",
+      "company": "Baobá Engenharia",
+      "source": "Reclame Aqui",
+      "date": "2026-11-05",
+      "text": "Taxa de transferência cobrada sem aviso prévio na hora de pegar as chaves. Nada disso estava claro no contrato.",
+      "sentiment": "Negativo",
+      "aspects": [
+        {
+          "category": "Financeiro e contrato",
+          "sentiment": "Negativo"
+        }
+      ],
+      "urgency": "Média",
+      "legal_risk": false,
+      "legal_reason": "",
+      "summary": "Taxa de transferência cobrada sem aviso prévio…",
+      "engine": "heuristica"
+    },
+    {
+      "id": "r044",
+      "company": "Baobá Engenharia",
+      "source": "Google Maps",
+      "date": "2026-11-13",
+      "text": "Acabamento de alto padrão e área de lazer impecável. Vale cada centavo.",
+      "sentiment": "Positivo",
+      "aspects": [
+        {
+          "category": "Acabamento e qualidade",
+          "sentiment": "Positivo"
+        },
+        {
+          "category": "Área comum e infraestrutura",
+          "sentiment": "Positivo"
+        }
+      ],
+      "urgency": "Baixa",
+      "legal_risk": false,
+      "legal_reason": "",
+      "summary": "Acabamento de alto padrão e área de…",
+      "engine": "heuristica"
+    },
+    {
+      "id": "r045",
+      "company": "Vértice Incorporadora",
+      "source": "Google Maps",
+      "date": "2026-01-15",
+      "text": "Entregaram no prazo e com qualidade. Segunda vez que compro com a Vértice.",
+      "sentiment": "Positivo",
+      "aspects": [
+        {
+          "category": "Prazo de entrega",
+          "sentiment": "Positivo"
+        },
+        {
+          "category": "Acabamento e qualidade",
+          "sentiment": "Positivo"
+        }
+      ],
+      "urgency": "Baixa",
+      "legal_risk": false,
+      "legal_reason": "",
+      "summary": "Entregaram no prazo e com qualidade",
+      "engine": "heuristica"
+    },
+    {
+      "id": "r046",
+      "company": "Vértice Incorporadora",
+      "source": "Google Maps",
+      "date": "2026-01-30",
+      "text": "Ótima localização, perto do shopping e de escolas. Prédio bem cuidado.",
+      "sentiment": "Positivo",
+      "aspects": [
+        {
+          "category": "Localização",
+          "sentiment": "Positivo"
+        },
+        {
+          "category": "Área comum e infraestrutura",
+          "sentiment": "Positivo"
+        }
+      ],
+      "urgency": "Baixa",
+      "legal_risk": false,
+      "legal_reason": "",
+      "summary": "Ótima localização, perto do shopping e de…",
+      "engine": "heuristica"
+    },
+    {
+      "id": "r047",
+      "company": "Vértice Incorporadora",
+      "source": "Reclame Aqui",
+      "date": "2026-02-16",
+      "text": "Porta do quarto veio desalinhada e a assistência levou 2 meses para trocar.",
+      "sentiment": "Negativo",
+      "aspects": [
+        {
+          "category": "Acabamento e qualidade",
+          "sentiment": "Negativo"
+        },
+        {
+          "category": "Assistência técnica",
+          "sentiment": "Negativo"
+        }
+      ],
+      "urgency": "Média",
+      "legal_risk": false,
+      "legal_reason": "",
+      "summary": "Porta do quarto veio desalinhada e a…",
+      "engine": "heuristica"
+    },
+    {
+      "id": "r048",
+      "company": "Vértice Incorporadora",
+      "source": "Google Maps",
+      "date": "2026-02-25",
+      "text": "Elevadores modernos e silenciosos, portaria muito organizada.",
+      "sentiment": "Positivo",
+      "aspects": [
+        {
+          "category": "Área comum e infraestrutura",
+          "sentiment": "Positivo"
+        }
+      ],
+      "urgency": "Baixa",
+      "legal_risk": false,
+      "legal_reason": "",
+      "summary": "Elevadores modernos e silenciosos, portaria muito organizada",
+      "engine": "heuristica"
+    },
+    {
+      "id": "r049",
+      "company": "Vértice Incorporadora",
+      "source": "Instagram",
+      "date": "2026-03-03",
+      "text": "amei o decorado e o atendimento no stand foi super atencioso",
+      "sentiment": "Positivo",
+      "aspects": [
+        {
+          "category": "Acabamento e qualidade",
+          "sentiment": "Positivo"
+        },
+        {
+          "category": "Atendimento e vendas",
+          "sentiment": "Positivo"
+        }
+      ],
+      "urgency": "Baixa",
+      "legal_risk": false,
+      "legal_reason": "",
+      "summary": "amei o decorado e o atendimento no…",
+      "engine": "heuristica"
+    },
+    {
+      "id": "r050",
+      "company": "Vértice Incorporadora",
+      "source": "Google Maps",
+      "date": "2026-03-20",
+      "text": "Obra dentro do cronograma, recebo relatórios mensais com fotos. Transparência total.",
+      "sentiment": "Positivo",
+      "aspects": [
+        {
+          "category": "Prazo de entrega",
+          "sentiment": "Positivo"
+        }
+      ],
+      "urgency": "Baixa",
+      "legal_risk": false,
+      "legal_reason": "",
+      "summary": "Obra dentro do cronograma, recebo relatórios mensais…",
+      "engine": "heuristica"
+    },
+    {
+      "id": "r051",
+      "company": "Vértice Incorporadora",
+      "source": "Reclame Aqui",
+      "date": "2026-04-06",
+      "text": "Infiltração na garagem do subsolo desde a entrega. Síndico já abriu vários chamados e a construtora empurra com a barriga.",
+      "sentiment": "Negativo",
+      "aspects": [
+        {
+          "category": "Acabamento e qualidade",
+          "sentiment": "Negativo"
+        },
+        {
+          "category": "Área comum e infraestrutura",
+          "sentiment": "Negativo"
+        },
+        {
+          "category": "Assistência técnica",
+          "sentiment": "Negativo"
+        }
+      ],
+      "urgency": "Alta",
+      "legal_risk": false,
+      "legal_reason": "",
+      "summary": "Infiltração na garagem do subsolo desde a…",
+      "engine": "heuristica"
+    },
+    {
+      "id": "r052",
+      "company": "Vértice Incorporadora",
+      "source": "Google Maps",
+      "date": "2026-04-23",
+      "text": "Bom custo-benefício, condições de pagamento flexíveis.",
+      "sentiment": "Positivo",
+      "aspects": [
+        {
+          "category": "Financeiro e contrato",
+          "sentiment": "Positivo"
+        }
+      ],
+      "urgency": "Baixa",
+      "legal_risk": false,
+      "legal_reason": "",
+      "summary": "Bom custo-benefício, condições de pagamento flexíveis",
+      "engine": "heuristica"
+    },
+    {
+      "id": "r053",
+      "company": "Vértice Incorporadora",
+      "source": "Formulário pós-entrega",
+      "date": "2026-05-10",
+      "text": "Vistoria tranquila, só duas pendências pequenas que foram resolvidas na mesma semana.",
+      "sentiment": "Positivo",
+      "aspects": [
+        {
+          "category": "Acabamento e qualidade",
+          "sentiment": "Positivo"
+        },
+        {
+          "category": "Assistência técnica",
+          "sentiment": "Positivo"
+        }
+      ],
+      "urgency": "Baixa",
+      "legal_risk": false,
+      "legal_reason": "",
+      "summary": "Vistoria tranquila, só duas pendências pequenas que…",
+      "engine": "heuristica"
+    },
+    {
+      "id": "r054",
+      "company": "Vértice Incorporadora",
+      "source": "Google Maps",
+      "date": "2026-05-27",
+      "text": "Academia do condomínio com equipamentos de qualidade e piscina aquecida. Top!",
+      "sentiment": "Positivo",
+      "aspects": [
+        {
+          "category": "Acabamento e qualidade",
+          "sentiment": "Positivo"
+        },
+        {
+          "category": "Área comum e infraestrutura",
+          "sentiment": "Positivo"
+        }
+      ],
+      "urgency": "Baixa",
+      "legal_risk": false,
+      "legal_reason": "",
+      "summary": "Academia do condomínio com equipamentos de qualidade…",
+      "engine": "heuristica"
+    },
+    {
+      "id": "r055",
+      "company": "Vértice Incorporadora",
+      "source": "Reclame Aqui",
+      "date": "2026-06-13",
+      "text": "Liguei 11 vezes para o SAC sobre um curto no quadro de energia. Nenhuma visita até agora. Tenho criança em casa, isso é perigoso.",
+      "sentiment": "Negativo",
+      "aspects": [
+        {
+          "category": "Acabamento e qualidade",
+          "sentiment": "Negativo"
+        },
+        {
+          "category": "Atendimento e vendas",
+          "sentiment": "Negativo"
+        },
+        {
+          "category": "Assistência técnica",
+          "sentiment": "Negativo"
+        }
+      ],
+      "urgency": "Alta",
+      "legal_risk": false,
+      "legal_reason": "",
+      "summary": "Liguei 11 vezes para o SAC sobre…",
+      "engine": "heuristica"
+    },
+    {
+      "id": "r056",
+      "company": "Vértice Incorporadora",
+      "source": "Google Maps",
+      "date": "2026-06-30",
+      "text": "Apartamento ótimo, porém a assistência técnica demora demais pra responder.",
+      "sentiment": "Negativo",
+      "aspects": [
+        {
+          "category": "Assistência técnica",
+          "sentiment": "Negativo"
+        },
+        {
+          "category": "Atendimento e vendas",
+          "sentiment": "Negativo"
+        }
+      ],
+      "urgency": "Média",
+      "legal_risk": false,
+      "legal_reason": "",
+      "summary": "Apartamento ótimo, porém a assistência técnica demora…",
+      "engine": "heuristica"
+    },
+    {
+      "id": "r057",
+      "company": "Vértice Incorporadora",
+      "source": "Instagram",
+      "date": "2026-07-16",
+      "text": "Vértice sempre caprichando no paisagismo 🌿",
+      "sentiment": "Positivo",
+      "aspects": [
+        {
+          "category": "Área comum e infraestrutura",
+          "sentiment": "Positivo"
+        }
+      ],
+      "urgency": "Baixa",
+      "legal_risk": false,
+      "legal_reason": "",
+      "summary": "Vértice sempre caprichando no paisagismo 🌿",
+      "engine": "heuristica"
+    },
+    {
+      "id": "r058",
+      "company": "Vértice Incorporadora",
+      "source": "Instagram",
+      "date": "2026-07-29",
+      "text": "atendimento no whatsapp é ótimo, respondem rapidinho",
+      "sentiment": "Positivo",
+      "aspects": [
+        {
+          "category": "Atendimento e vendas",
+          "sentiment": "Positivo"
+        }
+      ],
+      "urgency": "Baixa",
+      "legal_risk": false,
+      "legal_reason": "",
+      "summary": "atendimento no whatsapp é ótimo, respondem rapidinho",
+      "engine": "heuristica"
+    },
+    {
+      "id": "r059",
+      "company": "Vértice Incorporadora",
+      "source": "Reclame Aqui",
+      "date": "2026-08-01",
+      "text": "Pedi reparo no revestimento da fachada que está soltando. Mais de 60 dias sem resposta. Pode cair em alguém.",
+      "sentiment": "Negativo",
+      "aspects": [
+        {
+          "category": "Acabamento e qualidade",
+          "sentiment": "Negativo"
+        },
+        {
+          "category": "Assistência técnica",
+          "sentiment": "Negativo"
+        },
+        {
+          "category": "Área comum e infraestrutura",
+          "sentiment": "Negativo"
+        }
+      ],
+      "urgency": "Alta",
+      "legal_risk": false,
+      "legal_reason": "",
+      "summary": "Pedi reparo no revestimento da fachada que…",
+      "engine": "heuristica"
+    },
+    {
+      "id": "r060",
+      "company": "Vértice Incorporadora",
+      "source": "Google Maps",
+      "date": "2026-08-18",
+      "text": "Atendimento pós-venda caiu muito de qualidade. Antes respondiam no mesmo dia, agora leva semanas.",
+      "sentiment": "Neutro",
+      "aspects": [
+        {
+          "category": "Acabamento e qualidade",
+          "sentiment": "Neutro"
+        },
+        {
+          "category": "Atendimento e vendas",
+          "sentiment": "Neutro"
+        }
+      ],
+      "urgency": "Baixa",
+      "legal_risk": false,
+      "legal_reason": "",
+      "summary": "Atendimento pós-venda caiu muito de qualidade",
+      "engine": "heuristica"
+    },
+    {
+      "id": "r061",
+      "company": "Vértice Incorporadora",
+      "source": "Google Maps",
+      "date": "2026-09-03",
+      "text": "Fui bem atendido, contrato claro e sem surpresas.",
+      "sentiment": "Positivo",
+      "aspects": [
+        {
+          "category": "Atendimento e vendas",
+          "sentiment": "Positivo"
+        },
+        {
+          "category": "Financeiro e contrato",
+          "sentiment": "Positivo"
+        }
+      ],
+      "urgency": "Baixa",
+      "legal_risk": false,
+      "legal_reason": "",
+      "summary": "Fui bem atendido, contrato claro e sem…",
+      "engine": "heuristica"
+    },
+    {
+      "id": "r062",
+      "company": "Vértice Incorporadora",
+      "source": "Reclame Aqui",
+      "date": "2026-09-21",
+      "text": "Chamado de vazamento aberto em julho, ainda sem solução em setembro. Já estou orçando por conta própria e vou cobrar da construtora.",
+      "sentiment": "Negativo",
+      "aspects": [
+        {
+          "category": "Assistência técnica",
+          "sentiment": "Negativo"
+        },
+        {
+          "category": "Financeiro e contrato",
+          "sentiment": "Negativo"
+        }
+      ],
+      "urgency": "Alta",
+      "legal_risk": false,
+      "legal_reason": "",
+      "summary": "Chamado de vazamento aberto em julho, ainda…",
+      "engine": "heuristica"
+    },
+    {
+      "id": "r063",
+      "company": "Vértice Incorporadora",
+      "source": "Google Maps",
+      "date": "2026-10-06",
+      "text": "Bairro excelente e o prédio é lindo. Recomendo.",
+      "sentiment": "Positivo",
+      "aspects": [
+        {
+          "category": "Área comum e infraestrutura",
+          "sentiment": "Positivo"
+        },
+        {
+          "category": "Localização",
+          "sentiment": "Positivo"
+        }
+      ],
+      "urgency": "Baixa",
+      "legal_risk": false,
+      "legal_reason": "",
+      "summary": "Bairro excelente e o prédio é lindo",
+      "engine": "heuristica"
+    },
+    {
+      "id": "r064",
+      "company": "Vértice Incorporadora",
+      "source": "Reclame Aqui",
+      "date": "2026-10-22",
+      "text": "Assistência técnica não comparece às visitas agendadas. Perdi dois dias de trabalho esperando.",
+      "sentiment": "Negativo",
+      "aspects": [
+        {
+          "category": "Assistência técnica",
+          "sentiment": "Negativo"
+        }
+      ],
+      "urgency": "Média",
+      "legal_risk": false,
+      "legal_reason": "",
+      "summary": "Assistência técnica não comparece às visitas agendadas",
+      "engine": "heuristica"
+    },
+    {
+      "id": "r065",
+      "company": "Vértice Incorporadora",
+      "source": "Google Maps",
+      "date": "2026-11-08",
+      "text": "Entrega no prazo, mas a comunicação da assistência técnica é muito confusa.",
+      "sentiment": "Neutro",
+      "aspects": [
+        {
+          "category": "Prazo de entrega",
+          "sentiment": "Positivo"
+        },
+        {
+          "category": "Assistência técnica",
+          "sentiment": "Negativo"
+        },
+        {
+          "category": "Atendimento e vendas",
+          "sentiment": "Negativo"
+        }
+      ],
+      "urgency": "Baixa",
+      "legal_risk": false,
+      "legal_reason": "",
+      "summary": "Entrega no prazo, mas a comunicação da…",
+      "engine": "heuristica"
+    },
+    {
+      "id": "r066",
+      "company": "Vértice Incorporadora",
+      "source": "Reclame Aqui",
+      "date": "2026-11-14",
+      "text": "Vou procurar meus direitos. Garantia de 5 anos e a Vértice se nega a consertar as rachaduras da varanda.",
+      "sentiment": "Negativo",
+      "aspects": [
+        {
+          "category": "Acabamento e qualidade",
+          "sentiment": "Negativo"
+        },
+        {
+          "category": "Assistência técnica",
+          "sentiment": "Negativo"
+        }
+      ],
+      "urgency": "Alta",
+      "legal_risk": true,
+      "legal_reason": "menciona: meus direitos",
+      "summary": "Vou procurar meus direitos",
+      "engine": "heuristica"
+    }
+  ]
+}

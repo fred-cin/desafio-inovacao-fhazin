@@ -1,0 +1,67 @@
+id,sentiment,aspects,legal_risk
+r001,Positivo,Prazo de entrega: Positivo; Localização: Positivo,nao
+r002,Negativo,Assistência técnica: Negativo; Acabamento e qualidade: Negativo,nao
+r003,Positivo,Área comum e infraestrutura: Positivo,nao
+r004,Positivo,Atendimento e vendas: Positivo,nao
+r005,Negativo,Prazo de entrega: Negativo; Atendimento e vendas: Negativo,nao
+r006,Neutro,Localização: Positivo; Acabamento e qualidade: Negativo,nao
+r007,Positivo,Prazo de entrega: Positivo; Assistência técnica: Positivo; Atendimento e vendas: Positivo,nao
+r008,Negativo,Assistência técnica: Negativo; Acabamento e qualidade: Negativo,sim
+r009,Positivo,Área comum e infraestrutura: Positivo,nao
+r010,Negativo,Prazo de entrega: Negativo; Atendimento e vendas: Negativo,nao
+r011,Negativo,Prazo de entrega: Negativo; Financeiro e contrato: Negativo,nao
+r012,Positivo,Localização: Positivo; Acabamento e qualidade: Positivo,nao
+r013,Negativo,Prazo de entrega: Negativo; Financeiro e contrato: Negativo,sim
+r014,Neutro,Acabamento e qualidade: Positivo; Área comum e infraestrutura: Negativo,nao
+r015,Negativo,Acabamento e qualidade: Negativo; Assistência técnica: Neutro,nao
+r016,Negativo,Prazo de entrega: Negativo,nao
+r017,Positivo,Área comum e infraestrutura: Positivo,nao
+r018,Negativo,Financeiro e contrato: Negativo,sim
+r019,Negativo,Prazo de entrega: Negativo; Atendimento e vendas: Negativo,nao
+r020,Neutro,Acabamento e qualidade: Negativo; Assistência técnica: Positivo,nao
+r021,Negativo,Prazo de entrega: Negativo; Atendimento e vendas: Negativo,nao
+r022,Positivo,Localização: Positivo; Prazo de entrega: Negativo,nao
+r023,Positivo,Acabamento e qualidade: Positivo,nao
+r024,Negativo,Financeiro e contrato: Negativo; Atendimento e vendas: Negativo,nao
+r025,Positivo,Prazo de entrega: Positivo,nao
+r026,Neutro,Atendimento e vendas: Positivo; Financeiro e contrato: Negativo,nao
+r027,Negativo,Financeiro e contrato: Negativo,sim
+r028,Positivo,Acabamento e qualidade: Positivo; Área comum e infraestrutura: Negativo,nao
+r029,Positivo,Acabamento e qualidade: Positivo; Assistência técnica: Positivo,nao
+r030,Negativo,Atendimento e vendas: Negativo,nao
+r031,Negativo,Financeiro e contrato: Negativo; Atendimento e vendas: Negativo,nao
+r032,Positivo,Localização: Negativo; Área comum e infraestrutura: Positivo,nao
+r033,Positivo,Acabamento e qualidade: Positivo,nao
+r034,Negativo,Financeiro e contrato: Negativo; Atendimento e vendas: Negativo,nao
+r035,Positivo,Assistência técnica: Positivo,nao
+r036,Negativo,Financeiro e contrato: Negativo; Atendimento e vendas: Negativo,nao
+r037,Neutro,Acabamento e qualidade: Positivo; Financeiro e contrato: Negativo,nao
+r038,Positivo,Prazo de entrega: Positivo,nao
+r039,Negativo,Financeiro e contrato: Negativo,sim
+r040,Positivo,Acabamento e qualidade: Positivo,nao
+r041,Negativo,Financeiro e contrato: Negativo; Atendimento e vendas: Negativo,nao
+r042,Neutro,Outro: Neutro,nao
+r043,Negativo,Financeiro e contrato: Negativo,nao
+r044,Positivo,Acabamento e qualidade: Positivo; Área comum e infraestrutura: Positivo,nao
+r045,Positivo,Prazo de entrega: Positivo; Acabamento e qualidade: Positivo,nao
+r046,Positivo,Localização: Positivo; Área comum e infraestrutura: Positivo,nao
+r047,Negativo,Acabamento e qualidade: Negativo; Assistência técnica: Negativo,nao
+r048,Positivo,Área comum e infraestrutura: Positivo,nao
+r049,Positivo,Atendimento e vendas: Positivo; Acabamento e qualidade: Positivo,nao
+r050,Positivo,Prazo de entrega: Positivo; Atendimento e vendas: Positivo,nao
+r051,Negativo,Assistência técnica: Negativo; Área comum e infraestrutura: Negativo,nao
+r052,Positivo,Financeiro e contrato: Positivo,nao
+r053,Positivo,Assistência técnica: Positivo,nao
+r054,Positivo,Área comum e infraestrutura: Positivo,nao
+r055,Negativo,Assistência técnica: Negativo; Atendimento e vendas: Negativo,nao
+r056,Neutro,Acabamento e qualidade: Positivo; Assistência técnica: Negativo,nao
+r057,Positivo,Área comum e infraestrutura: Positivo,nao
+r058,Positivo,Atendimento e vendas: Positivo,nao
+r059,Negativo,Acabamento e qualidade: Negativo; Assistência técnica: Negativo,nao
+r060,Negativo,Atendimento e vendas: Negativo,nao
+r061,Positivo,Atendimento e vendas: Positivo; Financeiro e contrato: Positivo,nao
+r062,Negativo,Assistência técnica: Negativo; Acabamento e qualidade: Negativo,nao
+r063,Positivo,Localização: Positivo; Acabamento e qualidade: Positivo,nao
+r064,Negativo,Assistência técnica: Negativo,nao
+r065,Neutro,Prazo de entrega: Positivo; Assistência técnica: Negativo,nao
+r066,Negativo,Acabamento e qualidade: Negativo; Assistência técnica: Negativo,sim
