@@ -31,5 +31,38 @@
     },
     "engine": "heuristica",
     "evaluated_at": "2026-11-17T13:50:22"
+  },
+  {
+    "n": 66,
+    "sentiment_accuracy": 1.0,
+    "sentiment_macro_f1": 1.0,
+    "category_micro": {
+      "precision": 0.9711538461538461,
+      "recall": 0.9351851851851852,
+      "f1": 0.9528301886792453
+    },
+    "aspect_micro": {
+      "precision": 0.9519230769230769,
+      "recall": 0.9166666666666666,
+      "f1": 0.9339622641509433
+    },
+    "legal_risk": {
+      "accuracy": 0.8333333333333334,
+      "precision": 0.35294117647058826,
+      "recall": 1.0,
+      "f1": 0.5217391304347826
+    },
+    "per_category_f1": {
+      "Prazo de entrega": 1.0,
+      "Acabamento e qualidade": 0.8780487804878049,
+      "Assistência técnica": 1.0,
+      "Atendimento e vendas": 0.9444444444444444,
+      "Financeiro e contrato": 1.0,
+      "Área comum e infraestrutura": 0.9166666666666666,
+      "Localização": 0.9333333333333333,
+      "Outro": 1.0
+    },
+    "engine": "ia:meta-llama/llama-3.3-70b-instruct",
+    "evaluated_at": "2026-11-17T14:51:13"
   }
 ]
