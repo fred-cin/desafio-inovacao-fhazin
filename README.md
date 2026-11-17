@@ -1,8 +1,8 @@
 # DCL — Inteligência de reputação para construtoras
 
-Submissão para o Desafio de Inovação do PS do CITi 2026.2. Documentação completa em [`docs/DCL_Documentacao.pdf`](docs/DCL_Documentacao.pdf).
+Submissão para o Desafio de Inovação do PS do CITi 2026.2.
 
-🔗 **[Abrir o painel](https://desafio-inovacao-fhazin.streamlit.app/)** — funciona sem login e sem chave (modo demonstração).
+🔗 **[Abrir o painel](https://dcl-construtoras.streamlit.app/)** — funciona sem login e sem chave (modo demonstração).
 
 ## O problema
 
